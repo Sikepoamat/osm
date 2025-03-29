@@ -1,0 +1,24 @@
+{
+  "name": "simple-reverse-proxy",
+  "version": "1.0.0",
+  "description": "Simple reverse proxy build with Node.JS and possible to deploy in Vercel",
+  "main": "MainApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTPSHAX/simple-reverse-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GTPSHAX/simple-reverse-proxy/issues"
+  },
+  "homepage": "https://github.com/GTPSHAX/simple-reverse-proxy#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  }
+}
